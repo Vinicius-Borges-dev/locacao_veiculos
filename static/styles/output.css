@@ -664,3 +664,15 @@ video {
   --tw-text-opacity: 1;
   color: rgb(96 165 250 / var(--tw-text-opacity));
 }
+
+@media (min-width: 1024px) {
+  .lg\:w-2\/6 {
+    width: 33.333333%;
+  }
+}
+
+@media (min-width: 1280px) {
+  .xl\:w-2\/6 {
+    width: 33.333333%;
+  }
+}
